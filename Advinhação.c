@@ -26,7 +26,7 @@ int main(){
         printf("Seu chute foi %d\n", chute);
 
         if(chute<0){
-            printf("Voce nao pode chutar numeros negativos, tente de novo!\n");
+            printf("Voce nao pode chutar numeros negativos, tente de novo! \n");
             printf("-----------------------------------------------------------\n");
             continue;
         }
